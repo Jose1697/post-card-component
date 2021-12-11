@@ -1,0 +1,1 @@
+export { PostCardComponent } from './src/PostCardComponent.js';
