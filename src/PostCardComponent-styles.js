@@ -14,4 +14,8 @@ export default css`:host {
 *, *:before, *:after {
   box-sizing: inherit;
 }
+
+bbva-web-card-product {
+  display: contents;
+}
 `;
